@@ -64,22 +64,7 @@ Register for Exam:
 - Cross Site Scripting XSS
 - SQL Injections
 - 
-### System Attacks
-- Malware
-- Backdoor
-- Password Attacks
-- Buffer Overflow Attacks
 
-### Network Attacks
-- Authentication Cracking
-- Bruteforce and Password cracking
-- Windows Shares
-- Null Sessions
-- ARP Spoofing
-- Metasploit
-- Meterpreter
-- Remote Code Execution
-- Shells
 
 ## Tools Arsenal
 
