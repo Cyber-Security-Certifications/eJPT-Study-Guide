@@ -1,4 +1,4 @@
-# eJPT-Study-Notes
+# eJPT Study Notes
 Pass you eJPT Exam, here you have all tools and content you need!
 
 Penetration Testing Student
