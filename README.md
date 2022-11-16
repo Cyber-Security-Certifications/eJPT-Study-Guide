@@ -33,8 +33,13 @@ Register for Exam:
 
 ## Penetration Testing Basics
 
-
-
+- [Information Gathering](/Penetration%20Testing%20Basics/Information_Gathering)
+- [Footprinting & Scanning](/Penetration%20Testing%20Basics/Footprinting_Scanning)
+- [Vulnerability Assessment](/Penetration%20Testing%20Basics/Vulnerability_Assessment)
+- [Web Attacks](/Penetration%20Testing%20Basics/Web_Attacks)
+- [System Attacks](/Penetration%20Testing%20Basics/System_Attacks)
+- [Network Attacks](/Penetration%20Testing%20Basics/Network_Attacks)
+- [Tools Arsenal](/Penetration%20Testing%20Basics/)
 ### Information Gathering
 - Open-Source Intelligence
 - Subdomain Enumeration
