@@ -6,7 +6,9 @@ For a novice, entering the information security field can be overwhelming. You m
 
 
 Read the Full article [Free eJPT Certification Study Guide Fundamentals](https://www.poplabsec.com/ejpt-certification-study-material/)
+
 Check all My Commands and Tools Here: https://ejpt-junior-pentester.popdocs.net/
+
 Join My Discord to get support and learn with the community: https://discord.gg/qX5AcUb5ky
 
 Register for Exam: 
@@ -41,6 +43,9 @@ Register for Exam:
 - Scanning and OS Fingerprinting
 ### Vulnerability Assessment
 - Nessus
+- Nikto
+- WPScan
+- OpenVAS
 ### Web Attacks
 - Web Server Fingerprinting
 - HTTP Verbs
@@ -68,6 +73,24 @@ Register for Exam:
 - Shells
 
 ## Tools Arsenal
+
+### System Tools
+- Nmap
+- [CrackMapExec](https://www.poplabsec.com/crackmapexec-post-exploitation-guide/)
+- Metasploit
+- Hydra
+- John The Ripper
+- Hashcat
+- BurpSuite
+- [Gobuster](https://www.poplabsec.com/gobuster-tutorial/)
+- wFuzz
+
+### Web Tools
+- Rev Shells
+- CyberChef
+- GTFOBins
+- LOLBAS
+
 
 ## eJPT Exam Preparation
 
