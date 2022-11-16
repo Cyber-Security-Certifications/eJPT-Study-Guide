@@ -21,6 +21,8 @@ Register for Exam:
 ### Web Applications
 ### Penetration Testing
 
+[RFS](./Penetration Testing Basics)
+
 
 ## Penetration Testing: Preliminary Skills & Programming
 
@@ -30,6 +32,8 @@ Register for Exam:
 ### Command Line Scripting
 
 ## Penetration Testing Basics
+
+
 
 ### Information Gathering
 - Open-Source Intelligence
