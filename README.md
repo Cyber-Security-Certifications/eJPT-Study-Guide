@@ -15,21 +15,22 @@ Register for Exam:
 
 
 ## Penetration Testing Prerequisites
+ 
 
-### Introduction
-### Networking
-### Web Applications
-### Penetration Testing
-
-[RFS](/Penetration%20Testing%20Basics)
+- [Introduction](/PenetrationTestingPrerequisites/Introduction)
+- [Networking](/PenetrationTestingPrerequisites/Networking)
+- [Web Applications](/PenetrationTestingPrerequisites/Web_Applications)
+- [Penetration Testing](/PenetrationTestingPrerequisites/Penetration_Testing)
 
 
 ## Penetration Testing: Preliminary Skills & Programming
 
-### Introduction to Programming
-### C++
-### Python
-### Command Line Scripting
+
+- [Introduction to Programming](/Preliminary_Skills_Programming/IntroductionToProgramming)
+- [C++](/Preliminary_Skills_Programming/C%2B%2B)
+- [Python](/Preliminary_Skills_Programming/python)
+- [Command Line Scripting](/Preliminary_Skills_Programming/CommandLineScripting)
+
 
 ## Penetration Testing Basics
 
@@ -40,30 +41,8 @@ Register for Exam:
 - [System Attacks](/Penetration%20Testing%20Basics/System_Attacks)
 - [Network Attacks](/Penetration%20Testing%20Basics/Network_Attacks)
 - [Tools Arsenal](/Penetration%20Testing%20Basics/)
-### Information Gathering
-- Open-Source Intelligence
-- Subdomain Enumeration
-- 
-### Footprinting & Scanning
-- Mapping a Network
-- NMAP OS Fingerprinting
-- NMAP Port Scanning
-- Masscan
-- Scanning and OS Fingerprinting
-### Vulnerability Assessment
-- Nessus
-- Nikto
-- WPScan
-- OpenVAS
-### Web Attacks
-- Web Server Fingerprinting
-- HTTP Verbs
-- Netcat
-- Directories and Files Enumeration
-- Google Hacking
-- Cross Site Scripting XSS
-- SQL Injections
-- 
+
+
 
 
 ## Tools Arsenal
@@ -88,6 +67,7 @@ Register for Exam:
 
 ## eJPT Exam Preparation
 
+### YouTube PlayLIst
 ### TryHackMe Learning Path
 ### HackTheBox Tracks
 ### PortSwigger Web Security Academy
