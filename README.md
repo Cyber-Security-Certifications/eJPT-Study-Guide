@@ -13,6 +13,12 @@ Join My Discord to get support and learn with the community: https://discord.gg/
 
 Register for Exam: 
 
+## Recomendations
+
+Use Cherry Tree to take notes
+
+
+
 
 ## Penetration Testing Prerequisites
  
@@ -40,18 +46,18 @@ Register for Exam:
 - [Web Attacks](/Penetration%20Testing%20Basics/Web_Attacks)
 - [System Attacks](/Penetration%20Testing%20Basics/System_Attacks)
 - [Network Attacks](/Penetration%20Testing%20Basics/Network_Attacks)
-- [Tools Arsenal](/Penetration%20Testing%20Basics/)
 
 
 
 
 ## Tools Arsenal
+- [Tools Arsenal](/Penetration%20Testing%20Basics/)
 
 ### System Tools
 - Nmap
 - [CrackMapExec](https://www.poplabsec.com/crackmapexec-post-exploitation-guide/)
 - Metasploit
-- Hydra
+- THC-Hydra
 - John The Ripper
 - Hashcat
 - BurpSuite
@@ -69,5 +75,8 @@ Register for Exam:
 
 ### YouTube PlayLIst
 ### TryHackMe Learning Path
+- Junior Penetration Tester
 ### HackTheBox Tracks
+- Web Basics
+- Windows
 ### PortSwigger Web Security Academy
