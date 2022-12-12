@@ -57,7 +57,7 @@ Use Cherry Tree to take notes
 ### System Tools
 - Nmap
 - [CrackMapExec](https://www.poplabsec.com/crackmapexec-post-exploitation-guide/)
-- Metasploit
+- [Metasploit](https://www.poplabsec.com/metasploit/)
 - THC-Hydra
 - John The Ripper
 - Hashcat
@@ -66,8 +66,8 @@ Use Cherry Tree to take notes
 - wFuzz
 
 ### Web Tools
-- Rev Shells
-- CyberChef
+- [Rev Shells](https://www.revshells.com/)
+- [CyberChef](https://gchq.github.io/CyberChef/)
 - GTFOBins
 - LOLBAS
 
