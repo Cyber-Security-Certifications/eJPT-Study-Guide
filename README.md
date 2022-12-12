@@ -19,7 +19,7 @@ Register for Exam:
 Use Cherry Tree to take notes
 
 
-
+Download my CherryTree with commands to help you enumerate and keep track of everything.
 
 ## Penetration Testing Prerequisites
  
