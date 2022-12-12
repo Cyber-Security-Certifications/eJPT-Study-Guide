@@ -75,6 +75,11 @@ Use Cherry Tree to take notes
 ## eJPT Exam Preparation
 
 ### YouTube PlayLIst
+
+I'am compiling a Youtube Playlist with Free content, check it here:
+
+[Youtube - eJPT Certification Free Study](https://www.youtube.com/watch?v=glonDJIemHM&list=PLma3mJs09i0ftnMrQROtMo_r1NJIplxEM)
+
 ### TryHackMe Learning Path
 - Junior Penetration Tester
 ### HackTheBox Tracks
