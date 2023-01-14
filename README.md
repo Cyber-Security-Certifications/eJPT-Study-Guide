@@ -7,7 +7,7 @@ For a novice, entering the information security field can be overwhelming. You m
 
 - [Author RFS](https://cli-ck.me/rfs)
 - Join my Discord dedicated to [Active Directory Attacks by RFS](https://discord.gg/VPquyDE3JY)
-- Join [PopLabSec Discord](https://discord.gg/VPquyDE3JY)
+- Join [PopLabSec Discord](https://discord.poplabsec.com/)
 
 ## More Documentation
 
